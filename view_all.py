@@ -8,11 +8,11 @@ fenetre.title("Gestionnaire")
 
 # Fonction affichant la fenêtre pour la concaténation
 def appelConcat():
-    os.system("python3.10 view_concat.py")
+    os.system("python3.9 view_concat.py")
 
 # Fonction affichant la fenêtre pour la création de nuages de mots
 def appelNuage():
-    os.system("python3.10 view_double.py")
+    os.system("python3.9 view_double.py")
 
 # Fonction de fermeture de la fenêtre
 def closeFenetre():
